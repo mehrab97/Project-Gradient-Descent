@@ -12,3 +12,6 @@ Boston dataset is one of the datasets available in sklearn.
 Tried and coded Gradient Descent for N features and came up with predictions.
 Tried and tested with various combinations of learning rates and number of iterations.
 Tried using Feature Scaling, and saw if it helps in getting better results. 
+
+This project was done as a part of Data Science and Machine Learning course offered by Coding Ninjas.
+
